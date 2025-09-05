@@ -59,6 +59,7 @@ src/main/java/com/fiap/autoescola
 ## 👥 Integrantes
 - João Pedro Marques Rodrigues RM98307
 - Vitor Shimizu RM550390
-
+- Fabrizio Maia RM551869
+- Victor Asfur RM551684
 ## 📄 Licença
 MIT
